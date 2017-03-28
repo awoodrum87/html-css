@@ -1,0 +1,24 @@
+.title{
+  text-align: center;
+}
+body{
+  background-color:#DBF6AD;
+}
+
+.paragraph{
+  margin-left: 20px;
+  margin-top: 5px;
+  line-height: 1.5;
+}
+
+.food-img{
+  height:250px;
+  width: 250px;
+}
+
+form{
+  margin: 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}
